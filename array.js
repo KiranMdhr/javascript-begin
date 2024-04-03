@@ -61,3 +61,6 @@ let score1 = 1000;
 let score2 = 1000;
 
 console.log(Array.of(score, score1, score2));
+
+
+
